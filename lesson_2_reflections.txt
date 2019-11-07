@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Init and commit.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+WD is where I'm working in my local computer, and repository is where I save it online. The staging area is a playground before commiting.
+
