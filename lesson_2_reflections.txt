@@ -5,3 +5,17 @@ Init and commit.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 WD is where I'm working in my local computer, and repository is where I save it online. The staging area is a playground before commiting.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Make sure that you have few files in each staging area previous to a commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+They help when you want to make a substantial difference to your code that does not mean an iteration, or when you move to a different piece of work.
+
+How do the diagrams help you visualize the branch structure?
+They are like Doc Brown's time travel.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+They become the same branch, merging the changes of both.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging is great if you don't have conflicts. I think that I would almost always do merging manually.

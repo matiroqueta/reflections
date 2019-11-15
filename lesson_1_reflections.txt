@@ -27,4 +27,4 @@ Because you can always go back in time! You have a ctrl+z for any code.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-I want to use it for DS projects, mainly. For everything that evolves in time.
+I want to use it for DS projects, mainly. For everything that evolves in time.	
